@@ -1,0 +1,13 @@
+.vs
+.idea
+.vscode
+out
+__out
+build
+CMakeUserPresets.json
+TestResults
+logs
+*.pem
+*.blob
+__pycache__
+*.pyc
