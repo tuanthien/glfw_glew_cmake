@@ -10,3 +10,4 @@ logs
 *.blob
 __pycache__
 *.pyc
+CPM_0.38.7.cmake
